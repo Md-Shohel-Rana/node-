@@ -8,3 +8,9 @@ console.log(getName());
 // console.log(s1.getCgp());
 // console.log(s1.gpa);
 
+// IMPORT MODULES HERE
+// const s1= require('./student');
+// console.log(s1.getAge());
+// console.log(s1.getName());
+// console.log(s1.getCgp());
+// console.log(s1.gpa);
